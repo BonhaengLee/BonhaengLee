@@ -1,4 +1,4 @@
-#### 🌟 Hi, I'm a passionate FrontEnd developer 🌟   
+#### 🌟  Hi, I'm a passionate FrontEnd developer   
 
 * * *
 
