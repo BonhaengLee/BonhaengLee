@@ -1,6 +1,5 @@
 #### 🌟  Hi, I'm a passionate FrontEnd developer
 I am focusing my attention and effort on the frontend development that provides a great browsing experience.
-I enjoy new challenges and learning to expand my skills.
 
 * * *
 
