@@ -19,6 +19,26 @@ I am focusing my attention and effort on the frontend development that provides 
 &nbsp;<a target="_blank" rel="noopener noreferrer" href="https://flow.team/index.act?utm_source=google&utm_medium=cpc&utm_campaign=sa_pc_mo&utm_content=210225_0_0&gclid=CjwKCAjwq9mLBhB2EiwAuYdMtQvDJ6jB0Ae7Ln0uDaC8X5JInbB9_PGXivsmUo2uBphoptuFULfJoRoC72AQAvD_BwE"><img src="https://img.shields.io/badge/-Flow-6555b6??style=for-the-badge&logo=flower"/></a>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-10%20mins-blue)
+
+📊 **저는 이번주를 이렇게 시간을 보냈어요.** 
+
+```text
+⌚︎ Timezone: Asia/Seoul
+
+💬 프로그래밍 언어들: 
+이번 주에 활동은 없어요.
+
+🔥 에디터들: 
+이번 주에 활동은 없어요.
+
+💻 운영 체제들: 
+이번 주에 활동은 없어요.
+
+```
+
+
+ Last Updated on 18/03/2022 18:44:16 UTC
 <!--END_SECTION:waka-->
 
 <!--
