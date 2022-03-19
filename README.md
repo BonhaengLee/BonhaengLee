@@ -45,8 +45,6 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-10%20mins-blue)
-
 📊 **저는 이번주를 이렇게 시간을 보냈어요.** 
 
 ```text
@@ -64,7 +62,7 @@
 ```
 
 
- Last Updated on 18/03/2022 18:44:16 UTC
+ Last Updated on 19/03/2022 15:45:05 UTC
 <!--END_SECTION:waka-->
 
 <!--
