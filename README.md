@@ -64,7 +64,7 @@ Mac                      4 hrs 45 mins       ███████████�
 <!--END_SECTION:waka-->
 </details>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=bonhaengLee&bg_color=0a0a0a&color=FF4C4C&line=FF4C4C&point=transparent&area_color=913d71&area=913d71&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=bonhaengLee&bg_color=transparent&color=FF4C4C&line=FF4C4C&point=transparent&area_color=913d71&area=913d71&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <a href='https://github.com/rahul-jha98/github-stats-transparent'>
