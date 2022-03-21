@@ -11,7 +11,15 @@
 <div align="center"> -->
   <h6><i>:fork_and_knife: Languages and Tools </i></h6>
 
-<img src="https://img.shields.io/badge/-JavaScript-000000??style=for-the-badge&logo=javascript"/>&nbsp;<img src="https://img.shields.io/badge/-HTML-000000??style=for-the-badge&logo=html5"/>&nbsp;<img src="https://img.shields.io/badge/-CSS-000000??style=for-the-badge&logo=css3"/>&nbsp;<img src="https://img.shields.io/badge/-TypeScript-000000??style=for-the-badge&logo=typescript"/>&nbsp;<img src="https://img.shields.io/badge/-React.js-000000??style=for-the-badge&logo=React"/>&nbsp;<img src="https://img.shields.io/badge/-Next.js-000000??style=for-the-badge&logo=Next.js"/>&nbsp;<img src="https://img.shields.io/badge/-SCSS-000000??style=for-the-badge&logo=sass"/>
+<img src="https://img.shields.io/badge/-JavaScript-000000??style=for-the-badge&logo=javascript"/>&nbsp;
+<img src="https://img.shields.io/badge/-HTML-000000??style=for-the-badge&logo=html5"/>&nbsp;
+<img src="https://img.shields.io/badge/-CSS-000000??style=for-the-badge&logo=css3"/>&nbsp;
+<img src="https://img.shields.io/badge/-TypeScript-000000??style=for-the-badge&logo=typescript"/>&nbsp;
+<img src="https://img.shields.io/badge/-React.js-000000??style=for-the-badge&logo=React"/>&nbsp;
+<img src="https://img.shields.io/badge/-Next.js-000000??style=for-the-badge&logo=Next.js"/>&nbsp;
+<img src="https://img.shields.io/badge/-SCSS-000000??style=for-the-badge&logo=sass"/>&nbsp;
+<img src="https://img.shields.io/badge/-Jest-000000??style=for-the-badge&logo=jest"/>&nbsp;
+<img src="https://img.shields.io/badge/React%20Testing%20Library-000000?style=flat-square&logo=Testing Library"/>
 
 
 <h6><i>:baby_bottle: Techs that I've used at least once </i></h6>
