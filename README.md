@@ -2,10 +2,7 @@
 <h3>  </h3>
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=FF4C4C&height=365&section=header&text=Bonhaeng%20Lee&desc=Hi,%20I'm%20a%20passionate%20FrontEnd%20developer&fontSize=55&fontColor=FF4C4C&animation=fadeIn" />
 </div>
-
-  :surfer: I am focusing my attention and effort on the frontend development that provides a great browsing experience.
   
-
 
 <!-- 
 <div align="center"> -->
