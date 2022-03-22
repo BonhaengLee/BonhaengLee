@@ -40,33 +40,7 @@
 
 
 <h6><i>📊 Github Stats </i></h6>
-<details> 
-  <summary><i>:chart_with_upwards_trend: This is how I spent my time this week.</i></summary>
 
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs%2023%20mins-blue) 
-
-```text
-⌚︎ Timezone: Asia/Seoul
-
-💬 Programming language: 
-TypeScript               3 hrs 31 mins       ██████████████████░░░░░░░   73.86% 
-JavaScript               1 hr 13 mins        ██████░░░░░░░░░░░░░░░░░░░   25.77% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.2% 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.14% 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02%
-
-🔥 Editor: 
-VS Code                  4 hrs 45 mins       █████████████████████████   100.0%
-
-💻 Operating System: 
-Mac                      4 hrs 45 mins       █████████████████████████   100.0%
-
-```
-
-
- Last Updated on 19/03/2022 15:49:11 UTC
-<!--END_SECTION:waka-->
 </details>
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=bonhaengLee&bg_color=transparent&color=FF4C4C&line=FF4C4C&point=transparent&area_color=913d71&area=913d71&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
