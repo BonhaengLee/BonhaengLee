@@ -16,9 +16,8 @@
 <img src="https://img.shields.io/badge/-Next.js-000000??style=for-the-badge&logo=Next.js"/>&nbsp;
 <img src="https://img.shields.io/badge/-SCSS-000000??style=for-the-badge&logo=sass"/>&nbsp;
 <div>
-<img src="https://img.shields.io/badge/-Jest-000000??style=for-the-badge&logo=jest"/>&nbsp;
-<img src="https://img.shields.io/badge/React%20Testing%20Library-000000?style=flat-square&logo=Testing Library"/>&nbsp;<img src="https://img.shields.io/badge/-Playwright-000000??style=for-the-badge&logo=playwright"/>&nbsp;<img src="https://img.shields.io/badge/-Cypress-000000??style=for-the-badge&logo=cypress"/>
-<img src="https://img.shields.io/badge/-Express-000000??style=for-the-badge&logo=express"/>&nbsp;<img src="https://img.shields.io/badge/-Strapi-000000??style=for-the-badge&logo=strapi"/>&nbsp;<img src="https://img.shields.io/badge/-Firebase-000000??style=for-the-badge&logo=Firebase"/>
+<img src="https://img.shields.io/badge/-Jest-000000??style=for-the-badge&logo=jest"/>&nbsp;<img src="https://img.shields.io/badge/-Playwright-000000??style=for-the-badge&logo=playwright"/>&nbsp;<img src="https://img.shields.io/badge/-Cypress-000000??style=for-the-badge&logo=cypress"/>
+<img src="https://img.shields.io/badge/-Express-000000??style=for-the-badge&logo=express"/>&nbsp;<img src="https://img.shields.io/badge/-Firebase-000000??style=for-the-badge&logo=Firebase"/>
 </div>
 
 <h6><i>:tea: About Me </i></h6>
