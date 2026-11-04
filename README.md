@@ -1,60 +1,43 @@
 <div align="center">
-<h3>  </h3>
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=FF4C4C&height=365&section=header&text=Bonhaeng%20Lee&desc=Hi,%20I'm%20a%20passionate%20FrontEnd%20developer&fontSize=55&fontColor=FF4C4C&animation=fadeIn" />
-</div>
-  
-
-<!-- 
-<div align="center"> -->
-  <h6><i>:sparkles: Languages and Tools </i></h6>
-
-<img src="https://img.shields.io/badge/-JavaScript-000000??style=for-the-badge&logo=javascript"/>&nbsp;
-<img src="https://img.shields.io/badge/-HTML-000000??style=for-the-badge&logo=html5"/>&nbsp;
-<img src="https://img.shields.io/badge/-CSS-000000??style=for-the-badge&logo=css3"/>&nbsp;
-<img src="https://img.shields.io/badge/-TypeScript-000000??style=for-the-badge&logo=typescript"/>&nbsp;
-<img src="https://img.shields.io/badge/-React.js-000000??style=for-the-badge&logo=React"/>&nbsp;
-<img src="https://img.shields.io/badge/-Next.js-000000??style=for-the-badge&logo=Next.js"/>&nbsp;
-<img src="https://img.shields.io/badge/-SCSS-000000??style=for-the-badge&logo=sass"/>&nbsp;
-<div>
-<img src="https://img.shields.io/badge/-Jest-000000??style=for-the-badge&logo=jest"/>&nbsp;<img src="https://img.shields.io/badge/-Playwright-000000??style=for-the-badge&logo=playwright"/>&nbsp;<img src="https://img.shields.io/badge/-Cypress-000000??style=for-the-badge&logo=cypress"/>
-<img src="https://img.shields.io/badge/-Express-000000??style=for-the-badge&logo=express"/>&nbsp;<img src="https://img.shields.io/badge/-Firebase-000000??style=for-the-badge&logo=Firebase"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=FF4C4C&height=300&section=header&text=Bonhaeng%20Lee&desc=Frontend%20Engineer&fontSize=55&descSize=22&fontColor=FF4C4C&animation=fadeIn" />
 </div>
 
-<h6><i>:tea: About Me </i></h6>
-<a href="mailto:coalee22@gmail.com"><img src="https://img.shields.io/badge/gmail-bc3c32?style=flat&logo=Gmail&logoColor=white&link=mailto:coalee22@gmail.com"/></a>&nbsp <a href="https://uncertainty.oopy.io/"><img src="https://img.shields.io/badge/Blog-efeeeb?style=flat&logo=medium&logoColor=000&link=https://uncertainty.oopy.io/"/></a>
+웹 프론트엔드를 5년 가까이 개발했습니다. 최근 2년은 HR 성과 리뷰 B2B SaaS를 만들었고, 그 전에는 AI 골프 코칭 앱의 웹뷰와 데이터 시각화, 백오피스를 개발했습니다. 제품 기능과 함께 CI, 장애 대응 같은 개발 환경 개선을 맡아 왔고, 고친 결과는 테스트와 측정으로 확인합니다.
 
-<h6><i>:zap: Collaboration </i></h6>
+<h6><i>:sparkles: Frontend</i></h6>
 
-<a target="_blank" rel="noopener noreferrer" href="https://notion.com?utm_source=google&utm_medium=cpc&utm_campaign=sa_pc_mo&utm_content=210225_0_0&gclid=CjwKCAjwq9mLBhB2EiwAuYdMtQvDJ6jB0Ae7Ln0uDaC8X5JInbB9_PGXivsmUo2uBphoptuFULfJoRoC72AQAvD_BwE"><img src="https://img.shields.io/badge/-Notion-353336??style=for-the-badge&logo=Notion"/></a>
-&nbsp;<a target="_blank" rel="noopener noreferrer" href="https://github.com?utm_source=google&utm_medium=cpc&utm_campaign=sa_pc_mo&utm_content=210225_0_0&gclid=CjwKCAjwq9mLBhB2EiwAuYdMtQvDJ6jB0Ae7Ln0uDaC8X5JInbB9_PGXivsmUo2uBphoptuFULfJoRoC72AQAvD_BwE"><img src="https://img.shields.io/badge/-GitHub-000??style=for-the-badge&logo=github"/></a>
-&nbsp;<a target="_blank" rel="noopener noreferrer" href="https://github.com?utm_source=google&utm_medium=cpc&utm_campaign=sa_pc_mo&utm_content=210225_0_0&gclid=CjwKCAjwq9mLBhB2EiwAuYdMtQvDJ6jB0Ae7Ln0uDaC8X5JInbB9_PGXivsmUo2uBphoptuFULfJoRoC72AQAvD_BwE"><img src="https://img.shields.io/badge/-Bitbucket-2661ed??style=for-the-badge&logo=bitbucket"/></a>
-&nbsp;<a target="_blank" rel="noopener noreferrer" href="https://flow.team/index.act?utm_source=google&utm_medium=cpc&utm_campaign=sa_pc_mo&utm_content=210225_0_0&gclid=CjwKCAjwq9mLBhB2EiwAuYdMtQvDJ6jB0Ae7Ln0uDaC8X5JInbB9_PGXivsmUo2uBphoptuFULfJoRoC72AQAvD_BwE"><img src="https://img.shields.io/badge/-Flow-6555b6??style=for-the-badge&logo=Flow"/></a>
-&nbsp;<a target="_blank" rel="noopener noreferrer" href="https://www.atlassian.com/ko/software/jira?utm_source=google&utm_medium=cpc&utm_campaign=sa_pc_mo&utm_content=210225_0_0&gclid=CjwKCAjwq9mLBhB2EiwAuYdMtQvDJ6jB0Ae7Ln0uDaC8X5JInbB9_PGXivsmUo2uBphoptuFULfJoRoC72AQAvD_BwE"><img src="https://img.shields.io/badge/-Jira-4582f7??style=for-the-badge&logo=Jira"/></a>
+<img src="https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=typescript"/>&nbsp;
+<img src="https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react"/>&nbsp;
+<img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs"/>&nbsp;
+<img src="https://img.shields.io/badge/-TanStack%20Query-000000?style=for-the-badge&logo=reactquery"/>&nbsp;
+<img src="https://img.shields.io/badge/-Tailwind%20CSS-000000?style=for-the-badge&logo=tailwindcss"/>&nbsp;
+<img src="https://img.shields.io/badge/-MUI-000000?style=for-the-badge&logo=mui"/>&nbsp;
+<img src="https://img.shields.io/badge/-Emotion-000000?style=for-the-badge"/>&nbsp;
+<img src="https://img.shields.io/badge/-ECharts-000000?style=for-the-badge&logo=apacheecharts"/>
 
+<h6><i>:test_tube: Test</i></h6>
 
-<!--
-<h6><i>📊 Github Stats </i></h6>
+<img src="https://img.shields.io/badge/-Jest-000000?style=for-the-badge&logo=jest"/>&nbsp;
+<img src="https://img.shields.io/badge/-Testing%20Library-000000?style=for-the-badge&logo=testinglibrary"/>&nbsp;
+<img src="https://img.shields.io/badge/-Playwright-000000?style=for-the-badge&logo=playwright"/>&nbsp;
+<img src="https://img.shields.io/badge/-Vitest-000000?style=for-the-badge&logo=vitest"/>&nbsp;
+<img src="https://img.shields.io/badge/-Storybook-000000?style=for-the-badge&logo=storybook"/>
 
+<h6><i>:gear: Build, Deploy, Monitoring</i></h6>
 
-<a href='https://github.com/rahul-jha98/github-stats-transparent'>
-  
-![Stats Overview](https://raw.githubusercontent.com/BonhaengLee/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/BonhaengLee/github-stats-transparent/output/generated/languages.svg)
+<img src="https://img.shields.io/badge/-Turborepo-000000?style=for-the-badge&logo=turborepo"/>&nbsp;
+<img src="https://img.shields.io/badge/-GitHub%20Actions-000000?style=for-the-badge&logo=githubactions"/>&nbsp;
+<img src="https://img.shields.io/badge/-Docker-000000?style=for-the-badge&logo=docker"/>&nbsp;
+<img src="https://img.shields.io/badge/-Cloud%20Run-000000?style=for-the-badge&logo=googlecloud"/>&nbsp;
+<img src="https://img.shields.io/badge/-Datadog-000000?style=for-the-badge&logo=datadog"/>&nbsp;
+<img src="https://img.shields.io/badge/-Sentry-000000?style=for-the-badge&logo=sentry"/>
 
-</a>
-</div>
-  
+<h6><i>:robot: AI</i></h6>
 
-**BonhaengLee/BonhaengLee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://img.shields.io/badge/-Claude%20Code-000000?style=for-the-badge&logo=claude"/>&nbsp;
+<img src="https://img.shields.io/badge/-Codex-000000?style=for-the-badge&logo=openai"/>&nbsp;
+<img src="https://img.shields.io/badge/-MCP-000000?style=for-the-badge&logo=modelcontextprotocol"/>
 
-Here are some ideas to get you started:
+<h6><i>:tea: Contact</i></h6>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="mailto:coalee22@gmail.com"><img src="https://img.shields.io/badge/gmail-bc3c32?style=flat&logo=Gmail&logoColor=white"/></a>&nbsp;<a href="https://uncertainty.oopy.io/"><img src="https://img.shields.io/badge/Blog-efeeeb?style=flat&logo=medium&logoColor=000"/></a>
