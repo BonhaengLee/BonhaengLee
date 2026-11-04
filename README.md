@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=FF4C4C&height=300&section=header&text=Bonhaeng%20Lee&desc=Frontend%20Engineer&fontSize=55&descSize=22&fontColor=FF4C4C&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=FF4C4C&height=200&section=header&text=Bonhaeng%20Lee&desc=Frontend%20Engineer&fontSize=55&descSize=22&fontAlignY=38&descAlignY=68&fontColor=FF4C4C&animation=fadeIn" />
 </div>
 
 웹 프론트엔드를 5년 가까이 개발했습니다. 최근 2년은 HR 성과 리뷰 B2B SaaS를 만들었고, 그 전에는 AI 골프 코칭 앱의 웹뷰와 데이터 시각화, 백오피스를 개발했습니다. 제품 기능과 함께 CI, 장애 대응 같은 개발 환경 개선을 맡아 왔고, 고친 결과는 테스트와 측정으로 확인합니다.
